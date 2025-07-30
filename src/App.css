@@ -8,3 +8,11 @@
   align-items: center;
   justify-content: space-between;
 }
+.board-row{
+  display: flex;
+}
+.status{
+  font-size: x-large;
+  color:rgb(0, 0, 0);
+  margin-bottom: 10px;
+}
